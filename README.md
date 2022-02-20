@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"><br>
+  <a href="https://github.com/Ice3Fire">
+    <img src="https://lanyard.cnrad.dev/api/921430546813419550"/>
+     </a>
+</p>
