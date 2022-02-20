@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <p align="center"><br>
   <a href="https://github.com/Ice3Fire">
-    <img src="https://lanyard.cnrad.dev/api/921430546813419550"/>
+    <img src="https://lanyard.cnrad.dev/api/942526724527239178"/>
      </a>
 </p>
